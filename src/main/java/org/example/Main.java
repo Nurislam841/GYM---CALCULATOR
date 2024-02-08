@@ -14,6 +14,5 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-    //Hello Nuris\
-    //Second Hello Nuris
+    //Hello Nuris
 }
