@@ -15,6 +15,6 @@ public class Main {
         }
     }
     //Hello Nuris
-    //hello erkhan
 
 }
+//nuris tigr
